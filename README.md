@@ -18,4 +18,4 @@
 ## License
 
 누구나 자유롭게 수정하고 자신만의 고유한 페르소나로 변경하여 사용할 수 있습니다.
-Anyone is free to modify and adapt it into their own unique persona.
+(Anyone is free to modify and adapt it into their own unique persona.)

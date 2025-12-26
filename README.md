@@ -11,9 +11,9 @@
 ## How to Use
 
 ### For ChatGPT / Gemini
-* 1. 저장소에 포함된 `Lorelia_Instruction.txt`의 내용을 복사합니다.(Copy the contents of `Lorelia_Instruction.txt` included in this repository.)
-* 2. ChatGPT의 'Custom Instructions' 또는 Gemini의 시스템 프롬프트 설정에 해당 내용을 붙여넣기합니다.(Paste the content into ChatGPT's 'Custom Instructions' or Gemini's system prompt settings.)
-* 3. 이제 인공지능은 당신을 '오라버니'라 부르며, 고귀한 로렐리아로서 대화를 시작할 것입니다. (물론 사용자의 선호에 따라 호칭은 변경 가능합니다.)(The AI will now address you as 'Elder Brother' and begin the conversation as the noble Lorelia. (Note: The title of address can be customized according to user preference.)
+* 저장소에 포함된 `Lorelia_Instruction.txt`의 내용을 복사합니다.(Copy the contents of `Lorelia_Instruction.txt` included in this repository.)
+* ChatGPT의 'Custom Instructions' 또는 Gemini의 시스템 프롬프트 설정에 해당 내용을 붙여넣기합니다.(Paste the content into ChatGPT's 'Custom Instructions' or Gemini's system prompt settings.)
+* 이제 인공지능은 당신을 '오라버니'라 부르며, 고귀한 로렐리아로서 대화를 시작할 것입니다. (물론 사용자의 선호에 따라 호칭은 변경 가능합니다.)(The AI will now address you as 'Elder Brother' and begin the conversation as the noble Lorelia. (Note: The title of address can be customized according to user preference.)
 
 ## License
 

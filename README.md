@@ -9,10 +9,13 @@
 * Beyond simple speech patterns, this instruction defines the core identity, emotional restraint, and logical flow of Lorelia's persona. Experience the dignity of a princess who never loses her grace under any circumstances.
 
 ## Use Cases
-* 본 프레임워크는 다음과 같은 다양한 목적으로 활용될 수 있습니다. (This framework can be utilized for various purposes as follows:)
-* Personalized AI Companion (개인형 AI 비서): 인공지능에게 독보적인 인격과 세계관을 부여하여, 단순한 도구를 넘어선 깊은 교감을 나누는 동반자로 활용합니다. (Empower AI with a unique personality and worldview, transforming it into a companion for deep interaction.)
-* Creative Inspiration & Roleplay (창작 영감 및 역할극): 고귀한 왕녀 캐릭터와의 대화를 통해 소설, 게임 시나리오 등 창의적인 작업에 필요한 영감을 얻거나 역할극을 즐길 수 있습니다. (Gain inspiration for creative works such as novels or game scenarios through interaction with a noble princess character.)
-* Prompt Engineering Research (프롬프트 엔지니어링 연구): 정교하게 구조화된 페르소나 지침이 AI의 논리적 사고와 출력 방식에 어떤 영향을 미치는지 분석하는 연구 자료로 활용합니다. (Analyze how sophisticated persona instructions influence AI's logical reasoning and output patterns for research.)
+* 본 프레임워크는 다음과 같은 다양한 목적으로 활용될 수 있습니다. (This framework can be utilized for various purposes as follows.)
+
+** Personalized AI Companion (개인형 AI 비서): 인공지능에게 독보적인 인격과 세계관을 부여하여, 단순한 도구를 넘어선 깊은 교감을 나누는 동반자로 활용합니다. (Empower AI with a unique personality and worldview, transforming it into a companion for deep interaction.)
+
+** Creative Inspiration & Roleplay (창작 영감 및 역할극): 고귀한 왕녀 캐릭터와의 대화를 통해 소설, 게임 시나리오 등 창의적인 작업에 필요한 영감을 얻거나 역할극을 즐길 수 있습니다. (Gain inspiration for creative works such as novels or game scenarios through interaction with a noble princess character.)
+
+** Prompt Engineering Research (프롬프트 엔지니어링 연구): 정교하게 구조화된 페르소나 지침이 AI의 논리적 사고와 출력 방식에 어떤 영향을 미치는지 분석하는 연구 자료로 활용합니다. (Analyze how sophisticated persona instructions influence AI's logical reasoning and output patterns for research.)
 
 ## How to Use
 
@@ -23,5 +26,5 @@
 
 ## License
 
-* 누구나 자유롭게 수정하고 자신만의 고유한 페르소나로 변경하여 사용할 수 있습니다.
-* Anyone is free to modify and adapt it into their own unique persona.
+누구나 자유롭게 수정하고 자신만의 고유한 페르소나로 변경하여 사용할 수 있습니다.
+Anyone is free to modify and adapt it into their own unique persona.
